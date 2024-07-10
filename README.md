@@ -1,30 +1,12 @@
-<h2 align="left">Im Gabriela, and I'm a fullstack javascript developer</h2>
 
-<div align="left">
-  <img src="https://devicons.railway.app/i/javascript.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="hhttps://devicons.railway.app/i/typescript.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/react.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/html5.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/css3.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/python.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/django.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/webpack.svg" height="30" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/nodejs.svg" height="30" alt="node logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/postgresql.svg" height="30" alt="postgre logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/mongodb.svg" height="30" alt="mongo logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/nextjs-light.svg" height="30" alt="next logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/nestjs.svg" height="30" alt="nest logo"  />
-  <img width="12" />
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gabrielagiolo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriela-giolo/) 
+
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gabiiiibag&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gabiiiibag&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiiiibag&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
